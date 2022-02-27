@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b67523a-d697-42f3-bf48-2a0137d9088d" name="Changes" comment="">
+    <list default="true" id="4b67523a-d697-42f3-bf48-2a0137d9088d" name="Changes" comment="Criada classe de bootcamp e devs com seus metodos">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-poo-dio/br/com/dio/desafio/dominio/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-poo-dio/br/com/dio/desafio/dominio/Curso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-poo-dio/br/com/dio/desafio/dominio/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-poo-dio/br/com/dio/desafio/dominio/Mentoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-poo-dio/br/com/dio/desafio/dominio/Mentoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +85,16 @@
       <option name="presentableId" value="Default" />
       <updated>1645987461956</updated>
       <workItem from="1645987463096" duration="38000" />
-      <workItem from="1645987518379" duration="3134000" />
+      <workItem from="1645987518379" duration="8220000" />
     </task>
+    <task id="LOCAL-00001" summary="Criado as classes mentoria e curso">
+      <created>1645991359438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645991359439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +110,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criado as classes mentoria e curso" />
+    <MESSAGE value="Criada classe de bootcamp e devs com seus metodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criada classe de bootcamp e devs com seus metodos" />
   </component>
 </project>
